@@ -19,7 +19,7 @@ pdf2image
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/llm-resume-analyzer.git
+git clone (https://github.com/rishabh-jain26/resume_analyser.git)
 cd llm-resume-analyzer
 
 Install the required packages:
